@@ -1,2 +1,3 @@
 # LUPConsole
- Create a simple LUP Method
+
+<h3>LU decomposition with partial pivoting</h3>
